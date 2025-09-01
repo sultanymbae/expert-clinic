@@ -25,7 +25,7 @@ We are developing a landing page website to present the clinic, showcase service
 **RU:**  
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/username/expert-clinic.git
+   git clone https://github.com/sultanymbae/expert-clinic.git
 
 2. Перейти в папку проекта:
 
@@ -44,7 +44,7 @@ We are developing a landing page website to present the clinic, showcase service
 
 1. Сlone repository:
 
-    git clone https://github.com/username/expert-clinic.git
+    git clone https://github.com/sultanymbae/expert-clinic.git
 
 
 2. Go to project folder:
