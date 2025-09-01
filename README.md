@@ -61,16 +61,22 @@ We are developing a landing page website to present the clinic, showcase service
 
     npm run dev
 
-    📂 Структура проекта | Project Structure
-expert-clinic/
-├── public/           # Статические файлы | Static files
-├── src/
-│   ├── components/   # Компоненты React | React components (Header, Footer, Carousel, etc.)
-│   ├── assets/       # Изображения и иконки | Images & icons
-│   ├── styles/       # CSS стили | CSS styles
-│   └── App.js
-└── README.md
+  ## 📂 Project Structure | Структура Проекта 
 
+```plaintext
+expert-clinic
+ ┣ 📂 public              # Статические файлы | Static files
+ ┣ 📂 src                 # Компоненты React | React components
+ ┃ ┣ 📂 assets            # Изображения и иконки | Images & icons
+ ┃ ┃ ┣ 📂 images
+ ┃ ┃ ┗ 📂 icons
+ ┃ ┣ 📂 components
+ ┃ ┣ App.js
+ ┃ ┣ index.js
+ ┃ ┗ index.css
+ ┣ package.json
+ ┣ README.md
+ ┗ .gitignore
 
 
 👨‍💻 Авторы | Authors
